@@ -4,7 +4,6 @@ All about me
 ### Hi there, I'm <a href="https://skst.in" target="_blank"> Nitin Pachahara </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-pachahara-77723542b/c )
-[![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://skillcourse.in/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/@noxious_nitin)
 
 
@@ -33,7 +32,7 @@ I'm always learning, experimenting with new technologies, and working on project
 ### Tech I'm Familiar With
 `Python` `Java` `SQL` `Excel` `Power BI` `Pandas` `NumPy` `Machine Learning` `DSA` `Git` `GitHub`
 
-<img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
+<img align="right" alt="GIF" src="https://avatars.githubusercontent.com/u/143018967?s=400&u=1aa64ca15fb8afe801329ffb3307b458a6d21e4d&v=4" width="400" height="225" />
   
 
 **Talking about Personal Stuffs:**
