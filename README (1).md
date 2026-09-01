@@ -1,17 +1,37 @@
 # About_Me
 All about me
 
-### Hi there, I'm <a href="https://skst.in" target="_blank">Satish Dhawale</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+### Hi there, I'm <a href="https://skst.in" target="_blank"> Nitin Pachahara </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/satish-dhawale/)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nitin-pachahara-77723542b/c )
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://skillcourse.in/)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.youtube.com/@Satish_Dhawale)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/@noxious_nitin)
 
 
 
 ### Happy to see you here! &nbsp; ![](https://visitor-badge.glitch.me/badge?page_id=saddamskst.saddamskst)
 
-Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mumbai. I founded Skill Course, an online platform where people can learn about computers. I also run several YouTube channels, including "Learn More," which boasts over 2 million subscribers and millions of views.
+## About Me
+
+Hi, I'm Nitin 👋
+
+I'm a Computer Science student pursuing B.Tech in **Artificial Intelligence, Machine Learning & IoT** at **GLA University**.
+
+I enjoy building projects, solving programming problems, and exploring how technology can be used to solve real-world problems. I have worked with **Python, Java, SQL, Machine Learning, Data Structures & Algorithms, and IoT**.
+
+Currently, I'm focusing on **Data Analytics** and improving my skills in **Excel, SQL, Python, Pandas, NumPy, Data Cleaning, Data Visualization, Statistics, and Power BI**.
+
+I'm always learning, experimenting with new technologies, and working on projects that help me turn concepts into practical solutions.
+
+### Currently Learning
+- 📊 Data Analytics
+- 🐍 Python for Data Analysis
+- 🗄️ SQL
+- 📈 Power BI & Excel
+- 🤖 Machine Learning
+
+### Tech I'm Familiar With
+`Python` `Java` `SQL` `Excel` `Power BI` `Pandas` `NumPy` `Machine Learning` `DSA` `Git` `GitHub`
 
 <img align="right" alt="GIF" src="https://github.com/SatishDhawale/SatishDhawale/blob/1ca00b90990f3b0d667c34332da2d660d636d4fa/Satish%20Dhawale.jpg" width="400" height="225" />
   
@@ -37,7 +57,7 @@ Meet me, Satish Dhawale. I am a teacher, motivator, and entrepreneur based in Mu
 📈 **My GitHub Stats:**
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=satishdhawale&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=satishdhawale&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nitin Pachahara &show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nitin Pachahara &exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
