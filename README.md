@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Nitin Chaudhary
+# 👋 Hi, I'm Nitin pachahara
 
 ### `Computer Science Student` • `AI/ML & IoT` • `Data Analytics`
 
