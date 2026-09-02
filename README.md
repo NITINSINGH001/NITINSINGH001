@@ -20,7 +20,7 @@
 
 <img align="right" src="https://github.com/NITINSINGH001.png" width="280" alt="Nitin Chaudhary"/>
 
-I'm **Nitin Chaudhary**, a **B.Tech Computer Science student specializing in Artificial Intelligence, Machine Learning & IoT at GLA University, Mathura**.
+I'm **Nitin pachahara**, a **B.Tech Computer Science student specializing in Artificial Intelligence, Machine Learning & IoT at GLA University, Mathura**.
 
 I'm passionate about **Data Analytics, Machine Learning, and software development**, with a focus on turning data and ideas into practical solutions.
 
